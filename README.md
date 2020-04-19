@@ -9,8 +9,7 @@
 Flowable<Integer> flow = Flowable
 .range(1,5)
 .map(v -> v * v)
-.filter(v -> v % 3 == 0)
-;
+.filter(v -> v % 3 == 0);
 ```
 
 
