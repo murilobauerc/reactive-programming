@@ -15,7 +15,8 @@ Flowable<Integer> flow = Flowable
 
 ## Links
 
-https://github.com/ReactiveX/RxJava
+**Reactive docs:** https://github.com/ReactiveX/RxJava
 
-What is reactive programming: 
-https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382
+**What is reactive programming:** https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382
+
+**Fluent API pattern:** https://www.learnentityframeworkcore.com/configuration/fluent-api
