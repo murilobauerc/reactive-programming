@@ -19,4 +19,6 @@ Flowable<Integer> flow = Flowable
 
 **What is reactive programming:** https://medium.com/@kevalpatel2106/what-is-reactive-programming-da37c1611382
 
+**Docs Spring.io about Reactive programming:** https://docs.spring.io/spring-framework/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html
+
 **Fluent API pattern:** https://www.learnentityframeworkcore.com/configuration/fluent-api
